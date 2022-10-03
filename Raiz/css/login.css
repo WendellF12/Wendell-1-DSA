@@ -1,0 +1,26 @@
+#login{
+    margin-left: 20%;
+    margin-right: 20%;
+    border:solid 2px black ;
+    background-color: white;
+}
+#login{
+    margin-top: 2%;
+}
+#link{
+   margin-top: 2%; 
+}
+#descida {
+    margin-top: 5%;
+}
+.links {
+    font-size: 12px;
+}
+#itens{
+ 
+        margin-left: 10%;
+        margin-right: 10%;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    
+}

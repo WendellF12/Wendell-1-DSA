@@ -1,0 +1,22 @@
+.clearfix{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 2%;
+    border-style: outset;
+    background-color: white;
+}
+.texto{
+    margin-left: 2%;
+    margin-top: 2%;
+    margin-right: 2%;
+    text-align: justify;
+}
+body{
+    background-color:ghostwhite;
+}
+#distancia{
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}

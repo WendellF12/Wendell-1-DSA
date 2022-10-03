@@ -1,0 +1,27 @@
+#perfil{
+    border:solid 2px black ;
+background-color: white;
+margin-left: 20%;
+margin-right: 20%;
+margin-top: 1%;
+
+}
+body{
+    background-color: ghostwhite;
+}
+#foto{
+    height: 200px;
+    margin: auto;
+    display: block;
+}
+.mb-3{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+}
+#margens{
+    
+
+margin-top: 1%;
+margin-bottom: 4%;
+}
